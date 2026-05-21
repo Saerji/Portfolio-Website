@@ -206,7 +206,7 @@
 }
 .skills-container:hover {
   color: #ffffff;
-  transform: scale(1.1);
+  transform: scale(1.02);
   transition: transform 0.3s ease-in-out;
   opacity: 0.9;
 }
@@ -243,7 +243,7 @@
 }
 
 .skill-per.html {
-  width: 90%;
+  width: 75%;
   animation-delay: 0.1s;
 }
 
